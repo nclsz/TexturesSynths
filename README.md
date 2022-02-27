@@ -1,3 +1,3 @@
 # TexturesSynths
 Here you can find some of the synths I made to create some textures. 
-I upload an audio files as exemple of what these codes can do.
+You can download an audio file as example of what these codes can do. You can listen to it at this adress if you can't dowload it : Soundcloud
